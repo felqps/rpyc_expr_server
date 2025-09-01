@@ -1,0 +1,5 @@
+DEFAULT_NATS_URL = "nats://192.168.20.181:4222"
+DEFAULT_TIMEOUT = 240
+SHARE_CODE_FOLDER = '/qpsdata/share/'
+
+
